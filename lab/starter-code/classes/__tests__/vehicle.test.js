@@ -18,6 +18,8 @@ describe('Vehicles', () => {
           return {};
       }
     }
+
+
 // --- You are not supposed to touch anything beyond this point ---
     types.forEach( type => {
 
